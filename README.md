@@ -1,2 +1,2 @@
 # chat-server
-Chat program using python for Network Distributed Computing
+Chat server using python for Network Distributed Computing
